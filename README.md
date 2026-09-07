@@ -26,4 +26,5 @@ On the side I ship AI products end to end, PRD first. Everything below is built 
 ## Elsewhere
 
 - Site and case studies: [priyanshmathur.com](https://priyanshmathur.com)
+- LinkedIn: [linkedin.com/in/priyansh-mathur](https://www.linkedin.com/in/priyansh-mathur/)
 - Email: [priyanshmathur2@gmail.com](mailto:priyanshmathur2@gmail.com)
