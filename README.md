@@ -1,10 +1,21 @@
 # Priyansh Mathur
 
-**Product manager. I build distribution into the product.**
+**Product manager. First-principles thinker. Growth builder.**
 
-Most products are built first and marketed after. I work the other way round: find where the users already are, put the product there, and let the numbers decide what ships next. I like regulated, constrained problems, the kind with no ad budget, four engineers, and a compliance team in the room, because that is where product decisions actually matter.
+I’m interested in the part before the roadmap: what is actually true about the user, the market, and the constraint?
 
-**Proof, in numbers.** A wealth product taken to 20M reachable users through partner apps rather than paid installs, at 75% lower CAC than paid, with organic sessions growing from 10K to 140K a month. Before that, organic traffic for a fintech content business grown from 7K to 153K sessions a month. On the side, AI products shipped end to end, PRD first. Everything below is built and deployed by me.
+Start there. Then work backwards.
+
+Sometimes the answer is a better product. Sometimes it is a simpler flow, a useful tool, stronger trust, better discovery, or a distribution channel hiding in plain sight. I care less about the tactic than whether it changes the outcome.
+
+I work best on high-stakes, constrained problems: financial products, limited budgets, partner dependencies, compliance requirements, and small teams that still need to move quickly.
+
+## A few outcomes
+
+- Built a partner-distributed wealth product with access to a **20M+ reach channel**, delivering qualified leads at **75% lower CAC** than paid acquisition.
+- Grew Dezerv’s organic sessions from **10K to 140K/month**.
+- Grew Wint Wealth’s organic sessions from **7K to 153K/month**.
+- Build AI products from the first PRD through to a deployed product.
 
 ## Builds
 
