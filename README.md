@@ -10,6 +10,20 @@ Sometimes the answer is a better product. Sometimes it is a simpler flow, a usef
 
 I work best on high-stakes, constrained problems: financial products, limited budgets, partner dependencies, compliance requirements, and small teams that still need to move quickly.
 
+## Featured build: Roost
+
+<a href="https://github.com/PriyanshMathur1/roost"><img src="https://raw.githubusercontent.com/PriyanshMathur1/roost/main/docs/demo.gif" width="720" alt="Roost: a laptop plugs into a monitor and its windows fly to their remembered places; unplugging brings the laptop layout back."></a>
+
+**Unplug your Mac. Plug back in. Every window goes home.**
+A free, open-source window tiler for macOS that remembers where every window goes on every display setup. I built it because every meeting left my windows in a heap.
+
+- Tiles windows as they open, with no config files; extras wait neatly behind a tile instead of piling up
+- Remembers each display setup (desk, meeting, couch), even after a restart
+- Learns each app's minimum size, so nothing overlaps
+- Swift, public Accessibility API only, no network access; ~43,000 automated checks plus end-to-end tests on a real Mac; idles at 0% CPU
+
+[⬇ Download for macOS](https://github.com/PriyanshMathur1/roost/releases/latest/download/Roost.zip) · [▶ 30-second video](https://github.com/PriyanshMathur1/roost/releases/latest/download/Roost-launch-video.mp4) · [Source](https://github.com/PriyanshMathur1/roost)
+
 ## A few outcomes
 
 - Built a partner-distributed wealth product with access to a **20M+ reach channel**, delivering qualified leads at **75% lower CAC** than paid acquisition.
@@ -21,6 +35,7 @@ I work best on high-stakes, constrained problems: financial products, limited bu
 
 | Project | What it is | Try it |
 |---|---|---|
+| [Roost](https://github.com/PriyanshMathur1/roost) | macOS window tiler that remembers every display setup: plug in and windows go home, unplug and the laptop layout returns. Open source, MIT | [Download](https://github.com/PriyanshMathur1/roost/releases/latest/download/Roost.zip) |
 | [Artha Terminal](https://github.com/PriyanshMathur1/artha-wealth-agent) | AI investment research for Indian retail investors: 500+ NSE stocks screened, a 6-agent deep analysis, portfolio sync from your broker | [Live](https://artha-olive.vercel.app) |
 | [Sifarish](https://github.com/PriyanshMathur1/sifarish-jobos) | Job search on autopilot for India. Openings scored against your profile within minutes, alerts on your phone, applications filled from your own machine. Built from a written [PRD](https://github.com/PriyanshMathur1/sifarish-jobos/blob/main/PRD.md) and spec | [Live](https://sifarish-jobos-web.vercel.app) |
 | Loom | Production ledger for my father's bed-cover factory: nine entry screens matching the factory's nine steps, stock that can only move and never be edited, the real register imported from the workbook. Private repo, real data | [Case study](https://github.com/PriyanshMathur1/priyanshmathur.com/blob/main/work/loom.md) |
